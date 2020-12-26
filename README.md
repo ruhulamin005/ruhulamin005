@@ -123,7 +123,13 @@
 </a>
   <a align="center" href="https://github.com/ruhulamin005/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulamin005&langs_count=9&count_fork=false&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhulamin005&langs_count=10&count_fork=false&theme=tokyonight" />
 </a>
 </p>
+ </div>
+ 
+ ### Show some ❤️ by starring some of the repositories!
+ 
+ <div>
+  <p align="center">Idea From <a href="https://github.com/SaadAhmedSalim"><b>Saad Ahmed Salim</b></a> </p>
  </div>
