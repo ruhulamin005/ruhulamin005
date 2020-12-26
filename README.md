@@ -1,9 +1,8 @@
-### Hi there 👋
-
 <!--Hi Section-->  
 <div>
 <h1 align="center">:man_technologist: Hi there, I'm Ruhul Amin!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 </div>
+<br>
 
 <!--Main Section -->
 <div>
@@ -18,12 +17,9 @@
     </a>   
   </p>
  <!-- Badge Section -->
- <h3 align="center">Follow me in </h3>
   <p align="center">
-   <a href="https://github.com/ruhulamin005">
-       <img alt="GitHub followers" src="https://img.shields.io/github/followers/ruhulamin005?label=Follow&style=social" />
-   </a>
-  </p>
+   <img align="center" src="https://github.com/SaadAhmedSalim/SaadAhmedSalim/blob/master/image/KY0J.gif" alt="freak" />
+  </p>   
 </div> 
 
 ### Talking about Personal Stuffs:
