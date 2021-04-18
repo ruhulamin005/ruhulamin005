@@ -24,11 +24,11 @@
 
 ### Talking about Personal Stuffs:
 
-- 🎓 Pursuing Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/). :ok_hand:
-- 🔭 I’m currently working on Raspberry Pi and thonny software.
-- 🌱 I’m currently learning google colab and machine learning methods thoroughly.
-- 👯 I’m looking to collaborate on Accio Pi where is our 499 Project.
-- 🤔 I’m looking for help with automation (IOT) project using Thingspeak.com.
+- 🎓 Completed Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/). :ok_hand:
+- 🔭 I’m currently learning and working with data science project.
+- 🌱 I’m currently learning google colab and machine learning methods with data science thoroughly.
+- 👯 I’m looking to collaborate on Accio Pi where is our 499 Project and other data science staffs.
+- 🤔 I’m looking for help with automation (IOT) project using IOT devices.
 - 💬 Ask me about anything.
 - 😄 Pronouns: HE
 - ⚡ Fun fact: 
